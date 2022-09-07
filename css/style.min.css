@@ -848,6 +848,7 @@ body {
   border-radius: 6.88066px;
   margin-bottom: 20px;
   text-align: center;
+  height: 100%;
 }
 .main__tabs--item--title {
   font-size: 22px;
